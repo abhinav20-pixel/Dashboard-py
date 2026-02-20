@@ -70,11 +70,14 @@ python main.py
 
 ## 7. Open in browser
 
-## 8. As for live demo:
-https://abhinav20-pixel.github.io/Dashboard-py/
-
 ```
 http://127.0.0.1:8050/
 ```
 
 The dashboard will start locally.
+
+
+## 8. As for live demo:
+https://abhinav20-pixel.github.io/Dashboard-py/
+
+
